@@ -1,11 +1,11 @@
 ---
+layout:post
 title: "minimal-mistakes 를 이용한 블로그 만들기"
 categories:
   - Blog
 tags:
   - Blog
-last_modified_at: 2020-05-17
-comment:true
+  comments:true
 ---
 
 GitHub 를 통해 github.io 블로그 서비스를 시작해보았다.
