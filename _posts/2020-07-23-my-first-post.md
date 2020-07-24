@@ -1,5 +1,4 @@
 ---
-layout:post
 title: "minimal-mistakes 를 이용한 블로그 만들기"
 categories:
   - Blog
