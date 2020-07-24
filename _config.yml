@@ -21,8 +21,6 @@ words_per_minute         : 200 # 해당 포스트 읽는데 걸리는 시간을 
 # 댓글 관련 부분
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
-  disqus_url: https://https-rlarkdms-github-io.disqus.com/
-    disqus_id : https-rlarkdms-github-io
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
