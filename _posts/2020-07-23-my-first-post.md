@@ -5,6 +5,7 @@ categories:
 tags:
   - Blog
 last_modified_at: 2020-05-17
+comment:true
 ---
 
 GitHub 를 통해 github.io 블로그 서비스를 시작해보았다.
@@ -22,5 +23,7 @@ YFM에서 정의한 제목을 이중 괄호 구문으로 본문에 추가할 수
 이건 민지가 도와줬다.
 
 블로그 사이트 등은 아래 포스트 처럼 입력 가능하다.
+
+민지야 이 은혜는 잊지않을게...
 
 [민지의 블로그](https://jee00609.github.io/)
